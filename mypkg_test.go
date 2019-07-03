@@ -3,7 +3,7 @@ package mypkg_test
 import (
 	"testing"
 
-	"github.com/yukpiz/go-export-example/mypkg"
+	mypkg "github.com/yukpiz/go-export-example"
 )
 
 func Test_hello(t *testing.T) {
